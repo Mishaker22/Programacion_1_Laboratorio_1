@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1554777368 source:g:\ejercicio-cadenas-1c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Funciones.h"
+
+1554777272 g:\ejercicio-cadenas-1c\funciones.h
+
+1554777272 source:g:\ejercicio-cadenas-1c\funciones.c
+	<string.h>
+	"Funciones.h"
+
