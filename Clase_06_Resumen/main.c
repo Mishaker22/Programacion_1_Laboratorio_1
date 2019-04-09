@@ -1,12 +1,19 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
+#define T 10
+void ordenarVector(int [], int);
+void mostrarVector(int [], int);
 
 int contarLargo(char[]);
 
 int main()
 {
+    int valores[T]= {5,7,1,9,6,4,3,7,10,8};
 
+    mostrarVector(valores,T);
+    ordenarVector(valores,T);
+    mostrarVector(valores,T);
 
 
     char cadena[20];
@@ -124,6 +131,32 @@ int main()
 
 
     return 0;
+}
+
+//Método de la burbuja (en el campus apunte clase 6
+//probar todos los ejemplos
+void ordenarVector(int numeros[], int tam){
+
+  int i, j, aux;
+  for(i=0;i<tam - 1;i++){
+    for(j=i+1;j<tam; j++){
+      //printf("\nPara i= %d, con j= %d ", numeros[i], numeros[j]);
+      if(numeros[i] > numeros[j]){
+        aux= numeros[i];
+        numeros[i]= numeros[j];
+        numeros[j]= aux;
+      }
+    }
+  }
+
+}
+
+void mostrarVector(int vector[], int tam){
+  int i;
+  for(i=0;i<tam;i++){
+    printf("%d ", vector[i]);
+  }
+  printf("\n");
 }
 
 //Consultar
