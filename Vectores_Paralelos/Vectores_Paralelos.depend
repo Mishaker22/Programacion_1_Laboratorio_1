@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1555280362 source:g:\vectores_paralelos\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1555282284 source:g:\vectores_paralelos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
