@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1555337582 source:e:\clase_8\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1555337766 source:e:\clase_8\entradas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1555384712 source:g:\clase_8\entradas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1555386714 source:g:\clase_8\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Entradas.h"
+
+1555384492 g:\clase_8\entradas.h
+
+1555386060 source:g:\clase_8\funciones.c
+
