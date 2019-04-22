@@ -1,0 +1,1 @@
+void menuEmpleados(eEmpleado[], int);

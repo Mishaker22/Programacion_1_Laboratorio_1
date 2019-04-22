@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1555906124 source:g:\abm_v4\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Entradas.h"
+	"Empleado.h"
+
+1555904980 g:\abm_v4\entradas.h
+
+1555906124 g:\abm_v4\empleado.h
+
+1555907130 source:g:\abm_v4\entradas.c
+	<stdio.h>
+	<string.h>
+
+1555906836 source:g:\abm_v4\main.c
+	"Empleado.h"
+	"MenuEmpleados.h"
+
+1555905004 g:\abm_v4\menu.h
+
+1555905116 source:g:\abm_v4\menu.c
+	"Entradas.h"
+
+1555906858 g:\abm_v4\menuempleados.h
+
+1555906858 source:g:\abm_v4\menuempleados.c
+	<stdio.h>
+	<stdlib.h>
+	"Empleado.h"
+	"Entradas.h"
+	"Menu.h"
+
