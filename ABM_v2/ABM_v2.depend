@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1555902814 source:g:\abm_v2\empleado.c
+	<stdio.h>
+	<string.h>
+	"Entradas.h"
+	"Empleado.h"
+
+1555902580 g:\abm_v2\empleado.h
+
+1555902060 source:g:\abm_v2\funciones.c
+
+1555903372 source:g:\abm_v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Empleado.h"
+	"Entradas.h"
+	"Menu.h"
+
+1555903342 source:g:\abm_v2\entradas.c
+	<stdio.h>
+	<string.h>
+
+1555902198 g:\abm_v2\entradas.h
+
+1555902840 source:g:\abm_v2\menu.c
+	"Entradas.h"
+
+1555902580 g:\abm_v2\menu.h
+
