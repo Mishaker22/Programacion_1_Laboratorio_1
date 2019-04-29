@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1556458586 source:g:\abm_v5\entradas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1556499310 source:g:\abm_v5\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Entradas.h"
+	"EMPLEADO.H"
+
+1556499310 source:g:\abm_v5\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Empleado.h"
+	"Entradas.h"
+
+1556480166 g:\abm_v5\empleado.h
+
+1556458546 g:\abm_v5\entradas.h
+
